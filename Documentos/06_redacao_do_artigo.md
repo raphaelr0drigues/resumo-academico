@@ -16,11 +16,11 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Introdução
 
-`[O crescimento da computação em nuvem transformou a infraestrutura das empresas. Com isso vieram consequências: consumo de energia muito maior e problemas ambientais globais. Historicamente, o foco foi otimizar o hardware — reduzir o índice Power Usage Effectiveness (PUE). Mas isso só funciona até um ponto. Quando o volume de dados cresce exponencialmente, melhorar máquinas de forma isolada não resolve. A pegada de carbono continua a subir, os recursos naturais continuam a ser gastos. É preciso pensar diferente. Este artigo examina como a computação em nuvem está a ser gerida em termos de eficiência energética e sustentabilidade nos data centers corporativos.]`
+`[O crescimento da computação em nuvem transformou a infraestrutura das empresas. Com isso vieram consequências: consumo de energia muito maior e problemas ambientais globais. Historicamente, o foco foi otimizar o hardware — reduzir o índice Power Usage Effectiveness (PUE). Mas isso só funciona até um ponto. Quando o volume de dados cresce exponencialmente, é necessária uma ação maior do que melhorar máquinas de forma isolada. A pegada de carbono continua a subir e os recursos naturais continuam a ser gastos. É preciso pensar diferente. Este artigo examina como a computação em nuvem está sendo administrada em termos de eficiência energética e sustentabilidade nos data centers corporativos.]`
 
 ## Metodologia
 
-`[Trata-se de uma revisão de literatura de caráter qualitativo e exploratório. A pesquisa procurou publicações científicas e relatórios do setor de tecnologia, publicados entre 2024 e 2026, para incluir as inovações mais recentes. Os critérios de escolha deram prioridade a estudos sobre o aproveitamento de energia, uso de Inteligência Artificial nas instalações e formas de medir o impacto ambiental. A seleção e análise dos textos foram feitas a partir de resumos individuais (fichamentos) e de uma matriz para comparar as informações e os dados recolhidos.]`
+`[Trata-se de uma revisão de literatura de caráter qualitativo e exploratório. A pesquisa buscou por publicações científicas e relatórios do setor de tecnologia, publicados entre 2024 e 2026, para incluir as inovações mais recentes. Os critérios de escolha deram prioridade a estudos sobre aproveitamento de energia, uso de Inteligência Artificial nas instalações e formas de medir o impacto ambiental. A seleção e análise dos textos foram feitas a partir de resumos individuais (fichamentos) e de uma matriz para comparar as informações e os dados recolhidos.]`
 
 ## Revisão da literatura
 
@@ -30,7 +30,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ### `[Otimização de software e Inteligência Artificial na gestão de infraestruturas.]`
 
-`[A forma como os programas são escritos e gerenciados afeta diretamente o consumo da máquina. Kumar et al. (2024) mostram que, a curto prazo, a automação interna entrega ótimos resultados: simulações do estudo indicam que o uso de Inteligência Artificial para prever e equilibrar a temperatura pode baixar o gasto de energia com o resfriamento em até 40%. Somado a isso, Marques e Lima (2025) destacam a importância do Green Coding, que é quando os programadores criam códigos mais leves. Isso exige menos esforço contínuo dos processadores, economizando energia na raiz do problema.]`
+`[A forma como os programas são escritos e gerenciados afetam diretamente o consumo da máquina. Kumar et al. (2024) mostram que, a curto prazo, a automação interna entrega ótimos resultados: simulações do estudo indicam que o uso de Inteligência Artificial para prever e equilibrar a temperatura pode baixar o gasto de energia com o resfriamento em até 40%. Somado a isso, Marques e Lima (2025) destacam a importância do Green Coding, abordagem utilizada quando programadores criam códigos mais leves. Isso exige menos esforço contínuo dos processadores, economizando energia na raiz do problema.]`
 
 ### `[Impactos ambientais sistémicos: esgotamento hídrico e lixo eletrónico.]`
 
@@ -42,7 +42,7 @@ Considerando *INTRODUÇÃO*, *METODOLOGIA*, *REVISÃO DA LITERATURA*, *SÍNTESE 
 
 ## Considerações finais
 
-`[Uma nuvem realmente sustentável não se faz apenas poupando eletricidade. A gestão dos data centers nas empresas precisa de ações conjuntas que unam várias áreas da tecnologia. O bom uso da energia depende de juntar fontes renováveis instaladas no exterior com a ajuda da inteligência artificial dentro das próprias salas de servidores. Além disso, cuidar do ambiente exige regras firmes para reaproveitar a água e um compromisso real dos programadores para usarem o Green Coding nas suas rotinas de trabalho. O maior obstáculo hoje é aplicar estas tecnologias caras em empresas mais pequenas. No futuro, será preciso criar normas globais para garantir que o setor tecnológico partilha os recursos naturais de forma responsável.]`
+`[Uma nuvem realmente sustentável não se faz apenas poupando eletricidade. A gestão dos data centers nas empresas precisa de ações conjuntas que unam várias áreas da tecnologia. O bom uso da energia depende de juntar fontes renováveis instaladas no exterior com a ajuda da Inteligência Artificial dentro das próprias salas de servidores. Além disso, cuidar do ambiente exige regras firmes para reaproveitar a água e um compromisso real dos programadores para usarem o Green Coding nas suas rotinas de trabalho. O maior obstáculo hoje é aplicar estas tecnologias caras em empresas mais pequenas. No futuro, será preciso criar normas globais para garantir que o setor tecnológico partilhe os recursos naturais de forma responsável.]`
 
 ## Resumo
 
